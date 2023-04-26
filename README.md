@@ -1,5 +1,8 @@
 # Python_project_ITI_CU_python
+
 Python project to ITI-CU-python By student : Dina Aly Mahmoud
+
+
 #The aim of the project: Create a console app to start fundraise projects.
 The app should include the following features:
 
