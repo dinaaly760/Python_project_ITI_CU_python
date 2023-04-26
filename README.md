@@ -2,7 +2,11 @@
 Python project to ITI-CU-python By student : Dina Aly Mahmoud
 #The aim of the project: Create a console app to start fundraise projects.
 The app should include the following features:
+
+
 1 - Authentication System:
+
+
 • Registration:
 • First name
 • Last name
@@ -15,6 +19,8 @@ The app should include the following features:
 and password
 
 2 - Projects:
+
+
 • The user can create a project fund raise campaign which contains:
 • Title
 • Details
